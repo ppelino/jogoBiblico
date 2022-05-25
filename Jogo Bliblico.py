@@ -1,13 +1,14 @@
 
 # *** JOGO BIBLICO *** Algoritmo de Abraao
 # (Genesis 18:24-32)
-# By Guilherme Jose Ferreira (leodmx@brturbo.com.br)
+# By Edson Gomes Braz (ppelino@hotmail.com)
 
 # Inicio do programa
 print '\n'*100
 print """
 # *** JOGO BIBLICO *** Algoritmo de Abraao
-# By Guilherme Jose Ferreira (leodmx@brturbo.com.br)
+# By Edson Gomes Braz (ppelino@hotmail.com)
+
 
     Neste jogo voce deve convencer a Deus a nao destruir
     Sodoma e Gomorra (Genesis 18:24-32). Algo um tanto
